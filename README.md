@@ -2,6 +2,10 @@
 Trabalho Final CPS837 - 2025/1 - Projeto de Jogos
 
 
+## Livro de Regras
+
+
+
 ## Autor
 Michel Monteiro Schorr  
 [mschorrmichel@gmail.com](mschorrmichel@gmail.com)
