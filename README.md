@@ -44,7 +44,7 @@ E lembre-se: nunca venda cobre de baixa qualidade!
 #### Carta
 Uma carta de Mercadoria deve minimamente informar apenas qual a mercadoria dela, ja que a quantidade é sempre 1.
 
-Sugestão: Texto contento apenas nome do Tipo ex. "Ouro"
+Sugestão: Texto contento apenas nome do Tipo ex. "Ouro".
 
 #### Tipos
 Temos 4 cartas de Mercadoria, sendo elas:
@@ -115,7 +115,6 @@ Ex: Frente
 
 #### Cartas
 
-
 Valor | Categoria | Nome | Mercadoria 1 | Mercadoria 2 | Mercadoria 3 | Mercadoria 4 | Mercadoria 5 | Mercadoria 6  
  -- |-- | ----------------- | ------ | ------ | ------ | ------ | ------ | ------ |   
 1 | 1 | Sementes de Trigo | Trigo |  |  |  |  |   
@@ -154,6 +153,16 @@ Valor | Categoria | Nome | Mercadoria 1 | Mercadoria 2 | Mercadoria 3 | Mercador
 12 | 3 | Grande Colheita | Trigo | Trigo | Trigo | Trigo | Trigo | Trigo  
 12 | 3 | Zigurate de Ur | Pedra | Pedra | Pedra | Pedra | Pedra | Pedra  
 12 | 3 | Pináculo do Zigurate | Ouro | Ouro | Ouro | Ouro |  |   
+
+
+### Dinares
+A moeda usada no jogo. Qualquer indicador claro de unidade serve.  
+Podem ser usadas moedas com valores maiores, a fim de reduzir a quantidade impressa, como moedas de 10, 20, 50 e 100 Dinares.  
+Sugestão: Circulo de Papel escrito "1 Dinar".
+
+#### Quantidade
+350 unidades
+
 
 
 ## Como Jogar
