@@ -183,10 +183,9 @@ O jogo é jogado em 5 rodadas, com cada rodada tendo 5 etapas
 
 
 
-#### Leilão de Fornecedores
+#### (1) Acquisição de Fornecedores
 ##### Rodada 1
 Na primeira rodada, a Acquisição de Fornecedores ocorre de maneira diferente.  
-Embaralhe o baralho de fornecedores.  
 Destribua cartas de fornecedores do baralho para cada jogador, 1 a 1, até que cada um tenha 2 cartas.
 
 ##### Rodadas 2, 3, 4 e 5
@@ -199,11 +198,11 @@ Os leilões devem ser resolvidos antes das cartas pelas quais não há competiç
 
 Os jogadores então colocam suas cartas de fornecedores a suas frente, viradas para cima, sendo públicas.
   
-#### Recebimento de Mercadorias
+#### (2) Recebimento de Mercadorias
 Cada jogador recebe a quantidade de Mercadorias especificada em suas cartas de Fornecedores.
 
 
-#### Escolha de Contratos
+#### (3) Escolha de Contratos
 ##### Abertura dos Contratos
 Nessa etapa, são abertas X+2 cartas de contrato, com X sendo o número ed jogadores.  
 Para cada Rodada, é usado 1 ou 2 baralhos de cartas de contrato, sendo:
@@ -220,7 +219,7 @@ Após os contratos abertos, começando pelo jogador com menos Dinares, os jogado
 Jogadores podem adquirir qualquer contrato aberto, independente se ja podem cumpri-lo apenas com suas Mercadorias próprias dessa rodada.
 
 
-#### Negociação
+#### (4) Negociação
 Nessa etapa, os jogadores podem negociar para comprar as cartas de Mercadorias uns dos outros.   
 Apenas podem ser trocadas cartas de Mercadoria e Dinares.   
 A negociação é livre, jogadores podem aceitar ou recusar qualquer proposta, podem prometer favores futuros, "sairem do caminho de outro jogador", etc, mas não podem realizar trocas até a próxima rodada.  
@@ -229,7 +228,7 @@ Promessas não precisam ser cumpridas.
 
 
 
-#### Cumprimento dos Contratos
+#### (5) Cumprimento dos Contratos
 Essa é a ultima etapa de cada rodada.
 Após a finalização das negociações, cada jogador cumpre seu contrato, e recebe a quantidade de Dinares especificada. Caso não possa cumprir seu contrato, não recebe nada.
 As cartas de Mercadorias são devolvidas a seu baralho.  
