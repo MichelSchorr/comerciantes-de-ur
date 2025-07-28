@@ -98,11 +98,12 @@ Temos 4 cartas de Fornecedores, sendo elas:
 Uma carta de Contrato deve minimamente informar quais são as mercadorias necessárias, suas quantidades, qual o valor do contrato, e qual a sua categoria.  
   
 Sugestão: Na frente da carta, de cima para baixo, Nome, Imagem(Opcional), Lista de Mercadorias com seu nome e quantidade a direita, Valor.   
-No verso, sua categoria.
-Frente
-![Carta de Contrato - Frente](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_contrato_frente.jpg)
-Verso
-![Carta de Contrato - Verso](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_contrato_verso.jpg)
+No verso, sua categoria.  
+
+Carta de Contrato - Frente  
+![Carta de Contrato - Frente](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_contrato_frente.jpg)  
+Carta de Contrato - Verso  
+![Carta de Contrato - Verso](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_contrato_verso.jpg)  
 
 #### Cartas
 
