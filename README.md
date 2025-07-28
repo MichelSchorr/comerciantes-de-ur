@@ -97,24 +97,11 @@ Temos 4 cartas de Fornecedores, sendo elas:
 #### Carta
 Uma carta de Contrato deve minimamente informar quais são as mercadorias necessárias, suas quantidades, qual o valor do contrato, e qual a sua categoria.  
   
-Sugestão: Na frente da carta, de cima para baixo, Nome, Imagem(Opcional), Lista de Mercadorias com seu nome e quantidade a direita, Valor. No verso, sua categoria.
-
-Ex: Frente    
-+-----------------------------+  
-| NOME DO CONTRATO  
-+-----------------------------+  
-|[ ILUSTRAÇÃO ]  
-+-----------------------------+                                                   
-| REQUISITOS:                                                   
-| TRIGO:   [X]                                                  
-| PEDRA:   [X]                                                  
-| BRONZE:  [X]                                                  
-| OURO:    [X]                                              
-+-----------------------------+                                                   
-| VALOR DO CONTRATO:  
-| Dinares [X]                                             
-+-----------------------------+  
+Sugestão: Na frente da carta, de cima para baixo, Nome, Imagem(Opcional), Lista de Mercadorias com seu nome e quantidade a direita, Valor.   
+No verso, sua categoria.
+Frente
 ![Carta de Contrato - Frente](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_contrato_frente.jpg)
+Verso
 ![Carta de Contrato - Verso](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_contrato_verso.jpg)
 
 #### Cartas
@@ -180,7 +167,7 @@ Cada jogador recebe 5 Dinares no inicio da partida.
 
 ### Etapas
 O jogo é jogado em 5 rodadas, com cada rodada tendo 5 etapas
-1. Acquisição de Fornecedores
+1. Aquisição de Fornecedores
 1. Recebimento de Mercadorias
 1. Escolha dos Contratos
 1. Negociação
@@ -188,7 +175,7 @@ O jogo é jogado em 5 rodadas, com cada rodada tendo 5 etapas
 
 
 
-#### (1) Acquisição de Fornecedores
+#### (1) Aquisição de Fornecedores
 ##### Rodada 1
 Na primeira rodada, a Acquisição de Fornecedores ocorre de maneira diferente.  
 Destribua cartas de fornecedores do baralho para cada jogador, 1 a 1, até que cada um tenha 2 cartas.
