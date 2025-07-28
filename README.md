@@ -1,6 +1,6 @@
 # Comerciantes de Ur
-Trabalho Final CPS837 - 2025/1 - Projeto de Jogos
-
+Trabalho Final CPS837 - 2025/1 - Projeto de Jogos  
+Artigo: https://www.overleaf.com/read/cmpwyhwggvbh#8223a2
 
 ## Livro de Regras
 
