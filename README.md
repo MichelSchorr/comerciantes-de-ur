@@ -204,7 +204,7 @@ Cada jogador recebe a quantidade de Mercadorias especificada em suas cartas de F
 
 #### (3) Escolha de Contratos
 ##### Abertura dos Contratos
-Nessa etapa, são abertas X+2 cartas de contrato, com X sendo o número ed jogadores.  
+Nessa etapa, são abertas X+2 cartas de contrato, com X sendo o número de jogadores.  
 Para cada Rodada, é usado 1 ou 2 baralhos de cartas de contrato, sendo:
 * Rodada 1: Categoria 1
 * Rodada 2: Categoria 1 e Categoria 2
@@ -223,19 +223,19 @@ Jogadores podem adquirir qualquer contrato aberto, independente se ja podem cump
 Nessa etapa, os jogadores podem negociar para comprar as cartas de Mercadorias uns dos outros.   
 Apenas podem ser trocadas cartas de Mercadoria e Dinares.   
 A negociação é livre, jogadores podem aceitar ou recusar qualquer proposta, podem prometer favores futuros, "sairem do caminho de outro jogador", etc, mas não podem realizar trocas até a próxima rodada.  
-Ou seja, não é permitido dar Dinares a outro jogador em outra etapa que não seja a negociação.  
+Ou seja, não é permitido dar Dinares ou Mercadorias a outro jogador em outra etapa que não seja a negociação.  
 Promessas não precisam ser cumpridas.  
 
 
 
 #### (5) Cumprimento dos Contratos
 Essa é a ultima etapa de cada rodada.
-Após a finalização das negociações, cada jogador cumpre seu contrato, e recebe a quantidade de Dinares especificada. Caso não possa cumprir seu contrato, não recebe nada.
+Após a finalização das negociações, cada jogador cumpre seu contrato, e recebe a quantidade de Dinares especificada. Caso não possa cumprir seu contrato, não recebe nada.  
 As cartas de Mercadorias são devolvidas a seu baralho.  
-As cartas de Contrato são devolvidas a seus respectivos baralhos, e reembaralhadas.
+As cartas de Contrato são devolvidas a seus respectivos baralhos, e reembaralhadas.  
 As cartas de Fornecedores continuam com cada jogador.
 
 
 ### Fim da Partida
 Após se completar a Rodada 5, os jogadores contam quantos Dinares tem.  
-O jogador com mais Dinares é o Vencedor.
+O jogador com mais Dinares é o Vencedor, o "Maior Comerciante de Ur".
