@@ -45,7 +45,7 @@ E lembre-se: nunca venda cobre de baixa qualidade!
 Uma carta de Mercadoria deve minimamente informar apenas qual a mercadoria dela, ja que a quantidade é sempre 1.
 
 Sugestão: Texto contento apenas nome do Tipo ex. "Ouro".
-![Cartas de Mercadorias](https://github.com/]
+![Cartas de Mercadorias](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_mercadoria.jpg]
 
 #### Tipos
 Temos 4 cartas de Mercadoria, sendo elas:
@@ -71,7 +71,7 @@ Temos 4 cartas de Mercadoria, sendo elas:
 #### Carta
 Uma carta de Fornecedor deve minimamente informar apenas qual a mercadoria dela, e um simbolo indicando aumento, a fim de diferenciá-la das cartas de Mercadoria.  
 Sugestão: Texto contento apenas nome do Tipo ex. "+1 Ouro"
-![Cartas de Fornecedores](https://github.com/]
+![Cartas de Fornecedores](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_fornecedor.jpg]
 
 #### Tipos
 Temos 4 cartas de Fornecedores, sendo elas:
@@ -114,8 +114,8 @@ Ex: Frente
 | VALOR DO CONTRATO:  
 | Dinares [X]                                             
 +-----------------------------+  
-![Cartas de Contrato - Frente](https://github.com/]
-![Cartas de Contrato - Verso](https://github.com/]
+![Cartas de Contrato - Frente](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_contrato_frente.jpg]
+![Cartas de Contrato - Verso](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/carta_contrato_verso.jpg]
 
 #### Cartas
 
@@ -163,7 +163,7 @@ Valor | Categoria | Nome | Mercadoria 1 | Mercadoria 2 | Mercadoria 3 | Mercador
 A moeda usada no jogo. Qualquer indicador claro de unidade serve.  
 Podem ser usadas moedas com valores maiores, a fim de reduzir a quantidade impressa, como moedas de 10, 20, 50 e 100 Dinares.  
 Sugestão: Circulo de Papel escrito "1 Dinar".
-![Dinares](https://github.com/]
+![Dinares](https://github.com/MichelSchorr/comerciantes-de-ur/blob/main/ilustracoes/dinares.jpg]
 
 #### Quantidade
 350 unidades
